@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.javaoo.calculators;
+package //package name heres;
 
 /**
  * 
